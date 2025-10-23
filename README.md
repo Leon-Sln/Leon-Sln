@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building a personal website to showcase projects and skills.<br><br>👯 I’m looking to collaborate on: Digitalization initiatives, interactive dashboards, or consulting projects to optimize web presence.<br><br>🤝 I’m looking for help with: Refining the design and functionality of my personal website – suggestions from experienced web developers are welcome.<br><br>🌱 I’m currently learning: Advanced business informatics (master’s degree) and improving my knowledge of Python, Java, SQL, and Next.js.<br><br>⚡ Fun fact: I was a handball referee for several years.
+🔭 I’m currently working on: Building a personal website to showcase projects and skills.<br><br>👯 I’m looking to collaborate on: Digitalization initiatives, interactive dashboards, or consulting projects to optimize web presence.<br><br>🌱 I’m currently learning: Advanced business informatics (master’s degree) and improving my knowledge of Python, Java, SQL, and Next.js.
 
 
 ## 🌐 Socials:
